@@ -2,6 +2,8 @@
 
 
 npm install bootstrap font-awesome jquery popper.js --save
+
+
 npm install gulp gulp-sass browser-sync --save-dev
 
 
