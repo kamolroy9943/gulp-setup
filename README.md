@@ -15,3 +15,10 @@ npm install -g gulp-cli
 then run gulp using this command 
 
 gulp
+
+
+
+
+
+// React Practice 
+npm i gulp gulp-sass gulp-clean-css gulp-uglify gulp-rename gulp-changed --save-dev
